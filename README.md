@@ -1,30 +1,11 @@
-# CODSOFT
-#  Movie Recommendation System
+# CODSOFT Python Internship
 
-A simple content-based movie recommendation system built using Python.
+## Task 1 - Recommendation System
+A simple movie recommendation system built using Python.
 
-##  Project Description
-This project recommends movies based on similarity between their genres using TF-IDF Vectorization and Cosine Similarity.
+## Task 2 - Tic Tac Toe AI
+A Tic Tac Toe game implemented in Python where the player can play against the computer.
 
-##  Technologies Used
+## Technologies Used
 - Python
-- Pandas
-- Scikit-learn (TF-IDF, Cosine Similarity)
-
-##  How it works
-- Movie genres are converted into numerical features using TF-IDF
-- Cosine similarity is calculated between movies
-- Similar movies are recommended based on input movie title
-
-##  How to Run
-- Open `Recommendation_System.ipynb`
-- Run all cells in Jupyter/Google Colab
-- Enter a movie name to get recommendations
-
-##  Example
-Input: Thor  
-Output: Avengers, Hulk, Iron Man
-
----
-
-Made for internship project submission.
+- Google Colab
