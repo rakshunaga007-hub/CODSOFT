@@ -1,11 +1,21 @@
-# CODSOFT Python Internship
+ # CODSOFT AI Internship Projects
 
-## Task 1 - Recommendation System
-A simple movie recommendation system built using Python.
+This repository contains the tasks completed as part of the CODSOFT AI Internship.
 
-## Task 2 - Tic Tac Toe AI
-A Tic Tac Toe game implemented in Python where the player can play against the computer.
+# Task 1: Rule-Based Chatbot
+- Developed a simple chatbot using Python.
+- Responds to user inputs based on predefined rules using if-else statements.
 
-## Technologies Used
+# Task 2: Tic-Tac-Toe AI
+- Implemented a Tic-Tac-Toe game in Python.
+- Includes game logic, winner detection, and user interaction.
+
+# Task 3: Recommendation System
+- Built a movie recommendation system using content-based filtering.
+- Recommends similar movies based on genres and features.
+
+# Technologies Used
 - Python
-- Google Colab
+- Pandas
+- Scikit-learn
+- Jupyter Notebook / Google Colab
